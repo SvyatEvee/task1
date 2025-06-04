@@ -14,7 +14,6 @@ int main()
     }
 
     vector<pair<int, int>> segments;
-
     unsigned segments_number = 0;
 
     //Считываем данные о количестве отрезков
